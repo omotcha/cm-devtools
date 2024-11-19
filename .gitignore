@@ -1,0 +1,6 @@
+.idea
+/probes/cmprobe/*/cmc
+/probes/cmprobe/*/contracts/build
+/probes/cmprobe/*/sdk.log
+/probes/cmprobe/*/sdk.log.*
+/probes/cmprobe/*/secrets.py
